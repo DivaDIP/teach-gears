@@ -1,0 +1,24 @@
+CLASS Bootstrap : 
+1. align-items-center = vertikal tengah
+2. align-items-start = vertikal atas
+3. align-items-end = vertikal bawah
+
+MARGIN
+1. my = secara vertikal
+2. mx = margin horizontal
+3. mt = margin atas
+4. mb = margin bawah
+5. ms = margin kiri
+me = margin kanan
+(cara pakai = my-1)
+ukuran bootstrap : 1-5, dan kalau mau lebih itu dicostume di vanilla CSS
+
+GUNANYA CONTAINER = supaya mendapatkan padding secara vertikal
+
+justify-content-center = ke arah tengah
+align-items center = ( sama )
+col-lg-12 = supaya saat layarnya penuh dia mempunyai 12 kolum
+flex-wrap = tidak mebgubah ukuran 
+f-bold = font weight
+d-flex = untuk mengubah posisi dr sebuah elemen
+d-blok = untuk  
